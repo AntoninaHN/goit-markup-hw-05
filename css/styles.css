@@ -376,7 +376,6 @@ a {
   margin-bottom: 50px;
 }
 .our-team {
-  /* Section bg our team */
   background: #f5f4fa;
 }
 .team-names {
@@ -403,6 +402,8 @@ a {
 .team-section {
   /* Section bg */
   background: #f5f4fa;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 .item-name {
   font-family: Roboto;
