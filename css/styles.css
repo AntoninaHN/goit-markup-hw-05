@@ -726,11 +726,11 @@ footer {
   justify-content: center;
   align-items: center;
   text-decoration: none;
+  transition: color 250ms var(--timing-function);
 }
 .company-icon {
   display: inline-block;
   fill: currentColor;
-  transition: color 250ms var(--timing-function);
 }
 .clients-link:hover,
 .clients-link:focus {
